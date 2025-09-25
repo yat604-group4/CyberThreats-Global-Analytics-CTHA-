@@ -1,0 +1,28 @@
+# CyberThreats Global Analytics (CTHA)
+
+## 👥 Team Members
+- Eslam Ahmed (Team Leader)
+- Ahmed Hesham (Data Collection)
+- Eman Salem (Data Cleaning & Preprocessing)
+- Abdullah Hesham (Dashboard Development)
+- Omnia (Documentation & Reporting)
+
+## 📌 Project Name
+CyberThreats Global Analytics (CTHA)
+
+## 💡 Project Idea
+The project aims to analyze global cybersecurity threats datasets to identify trends, patterns, and insights. The results will be visualized through interactive dashboards that support better understanding of the threat landscape.
+
+## 🗂️ Project Plan
+1. **Data Collection** – Gather datasets related to cybersecurity threats.  
+2. **Data Cleaning & Preprocessing** – Remove inconsistencies, handle missing values, and prepare data.  
+3. **Data Analysis** – Explore the data to find patterns, correlations, and trends.  
+4. **Dashboard Development** – Build interactive dashboards for visualization (e.g., Power BI / Tableau / Python).  
+5. **Reporting** – Document the findings and present insights.  
+
+## 🎯 Roles & Responsibilities
+- **Eslam Ahmed** → Team Leader & Coordination  
+- **Ahmed Hesham** → Data Collection  
+- **Eman Salem** → Data Cleaning & Preprocessing  
+- **Abdullah Hesham** → Dashboard Development & Visualization  
+- **Omnia** → Documentation & Final Report
